@@ -1,0 +1,16 @@
+.text{
+    color: red;
+    text-align: left;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+ .br-whoweare{
+    border: 1px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 550px;
+     
+}
+.row-12{
+    background-color: red;
+}

@@ -1,0 +1,27 @@
+.page5{
+    background-color: black;
+}
+.row-12{
+    background-color: red;
+}
+.getintouch{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.h5-tags{
+    color: red;
+}
+.p-tags{
+    color: white;
+}
+.upload-resume{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color: white;
+    padding-top: 250px;
+}
+@media screen and (max-width: 991px) {
+     .getintouch{
+      text-align: center;
+    }
+  }
