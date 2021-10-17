@@ -1,19 +1,24 @@
 .text{
     color: red;
-    text-align: left;
-    margin-top: 150px;
-    margin-bottom: 150px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
- .br-whoweare{
+ .whoweare{
     border: 1px;
     border-radius: 4px;
     padding: 5px;
-    width: 550px;
-     
+    width: 550px;    
 }
 .row-12{
     background-color: red;
 }
-.br-whoweare-bio{
-    text-align: center;
+.whoweare-pic{
+    align-items: center;
+    border-bottom: 10px;
 }
+.whoweare-bio{
+    text-align: center;
+    margin: 40px;
+}
+
