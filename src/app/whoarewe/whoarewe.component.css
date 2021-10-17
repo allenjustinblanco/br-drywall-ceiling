@@ -13,12 +13,18 @@
 .row-12{
     background-color: red;
 }
+
 .whoweare-pic{
-    align-items: center;
-    border-bottom: 10px;
+    border: 20px;
 }
+
 .whoweare-bio{
     text-align: center;
     margin: 40px;
 }
+/* @media screen and (max-width: 991px) {
+    .whoarewe-bio{
+     text-align: center;
+   }
+ } */
 
