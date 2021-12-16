@@ -16,15 +16,16 @@
 
 .whoweare-pic{
     border: 20px;
+    margin-bottom: 70px;
 }
 
 .whoweare-bio{
     text-align: center;
-    margin: 40px;
+    font-size: large;
 }
-/* @media screen and (max-width: 991px) {
-    .whoarewe-bio{
+@media screen and (min-width: 991px) {
+    .whoweare-bio{
      text-align: center;
    }
- } */
+ }
 
