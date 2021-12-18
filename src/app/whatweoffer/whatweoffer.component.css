@@ -12,6 +12,16 @@
     color: white;
     padding: 10px;  
 }
+.whatweoffercomercial{
+    text-align: center;
+    color: red;
+    padding: 10px;  
+}
+.whatweofferresidential{
+    text-align: center;
+    color: red;
+    padding: 10px;  
+}
 .tag-links{
     text-align: center;
     margin-top: 10px;
