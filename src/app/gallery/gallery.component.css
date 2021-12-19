@@ -11,3 +11,27 @@
 .gallery-imgs{
     padding: 10px;
 }
+.gallery-vintage{
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.gallery-residential{
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.gallery-beforeafter{
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.gallery-commercial{
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
