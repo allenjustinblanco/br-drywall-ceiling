@@ -103,5 +103,8 @@
       }
     }
   },
-  "defaultProject": "BRsystems"
+  "defaultProject": "BRsystems",
+  "cli": {
+    "analytics": false
+  }
 }
